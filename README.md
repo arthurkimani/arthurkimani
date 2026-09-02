@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I’m Arthur 👋
 
-<!--
-**arthurkimani/arthurkimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+🤖 Interested in AI & Machine Learning
+💻 Learning Software Development
+📊 Interested in Data & AI Training
+🌍 Open to Remote Opportunities
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Computer Science student at the Catholic University of Eastern Africa, expected to graduate in 2028.
+
+I’m currently developing my skills in programming, data annotation, databases, AI/ML and software development.
+
+Skills
+
+* Python
+* Java
+* C
+* SQL
+* MySQL
+* HTML/CSS
+* Data Annotation
+* Machine Learning
+* Computer Networking
+
+Current Goals
+
+* Build practical software projects
+* Develop an AI/data portfolio
+* Gain professional experience
+* Contribute to real-world technology projects
+
+Connect With Me
+
+LinkedIn: www.linkedin.com/in/arthur-kimani-b499a0413
